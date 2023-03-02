@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gittmaniac/postify.git/static/css/main.acaa94e3.css",
+    "main.js": "/Gittmaniac/postify.git/static/js/main.da3862b2.js",
+    "index.html": "/Gittmaniac/postify.git/index.html",
+    "main.acaa94e3.css.map": "/Gittmaniac/postify.git/static/css/main.acaa94e3.css.map",
+    "main.da3862b2.js.map": "/Gittmaniac/postify.git/static/js/main.da3862b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acaa94e3.css",
+    "static/js/main.da3862b2.js"
+  ]
+}
